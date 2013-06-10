@@ -3,7 +3,7 @@ cc_jsf
 
 Crud Comentado com JSF 2x !
 
-####Para colocar o projeto em execução no eclipse faça:
+####Para colocar o projeto em execução no eclipse vá até sua workspace e faça:
 
 ```
 git clone https://github.com/cejug/cc_jsf
