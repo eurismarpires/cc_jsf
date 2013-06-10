@@ -36,9 +36,9 @@ http://localhost:8080/cc_jsf/
 ```
 
 
-![cc_jsf1](https://github.com/cejug/cc_jsf/blob/master/cc_jsf.png)
+![cc_jsf1](https://raw.github.com/cejug/cc_jsf/master/cc_jsf.png)
 
 
-![cc_jsf2](https://github.com/cejug/cc_jsf/blob/master/cc_jsf_list.png)
+![cc_jsf2](https://raw.github.com/cejug/cc_jsf/master/cc_jsf_list.png)
 
 
