@@ -5,7 +5,7 @@ Crud Comentado com JSF 2x !
 
 Para colocar o projeto em execução no eclipse faça:
 
-1- git clone https://github.com/levymoreira/cc_jsf
+1- git clone https://github.com/cejug/cc_jsf
 
 2- cd cc_jsf 
 
