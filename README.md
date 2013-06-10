@@ -19,8 +19,12 @@ Para colocar o projeto em execução no eclipse faça:
    File -> Import -> Existing Maven Projects
 ```
 
-4. Após o procedimento acima caso o eclipse apresente alguma mensagem de erro no projeto, clique com botão direito do mouse sobre o projeto clique em 'Maven' -> 'Update Project' -> 'Ok'. 
-   
+4. Após o procedimento acima caso o eclipse apresente alguma mensagem de erro no projeto, clique com botão direito do mouse sobre o projeto clique em:
+
+```
+'Maven' -> 'Update Project' -> 'Ok'. 
+```
+
 5. Adicione o projeto ao tomcat e pode verificar no seu navegador
 
 ```
