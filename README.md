@@ -34,3 +34,11 @@ Após o procedimento acima caso o eclipse apresente alguma mensagem de erro no p
 ```
 http://localhost:8080/cc_jsf/
 ```
+
+
+![cc_jsf1](https://github.com/cejug/raw/master/cc_jsf.png)
+
+
+![cc_jsf2](https://github.com/cejug/raw/master/cc_jsf_list.png)
+
+
