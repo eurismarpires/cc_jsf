@@ -10,7 +10,10 @@
 		<br />
 		<h:messages />
 		
+		<h:inputHidden  name="id"  value="#{produtoBean.produtoSelecionado.id}" ></h:inputHidden>
+		
 		<h:panelGrid columns="2">
+		
 			<h:outputLabel value="Nome: " 
 						   for="nome" />
 			<h:inputText id="nome" 

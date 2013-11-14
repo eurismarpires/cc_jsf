@@ -6,7 +6,7 @@
     
     <!-- Lista de entidades que devem ser mapeadas -->
     <class>org.cejug.cc_jsf.pojo.Produto</class>
-    <class>org.cejug.cc_jsf.dao.Aluno</class>
+    
     
     <!-- Configuração da conexão com o JAVA DB -->
     <properties>      
